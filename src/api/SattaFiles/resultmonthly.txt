@@ -1,0 +1,744 @@
+
+				<table>
+			<tbody><tr >
+				<th colspan="3">
+					<h1>Satta King Fast Results of November 13, 2024 &amp; November 12, 2024</h1>
+				</th>
+			</tr>
+			<tr class="board-head">
+				<th class="games-name">
+					<h2>Games List</h2>
+				</th>
+				<th class="yesterday-date">
+					<h2>Tue. 12th</h2>
+				</th>
+				<th class="today-date">
+					<h2>Wed. 13th</h2>
+				</th>
+			</tr>
+					<tr class="game-result" id="BD">
+				<td class="game-details">
+					<h3 class="game-name">BALA JI DADRI</h3>
+					<h3 class="game-time"> at 10:15 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/bala-ji-dadri/satta-result-chart/bd/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>85</h3>
+				</td>
+				<td class="today-number">
+					<h3>XX</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="UK">
+				<td class="game-details">
+					<h3 class="game-name">UTTARAKHAND - UK</h3>
+					<h3 class="game-time"> at 10:15 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/uttarakhand-uk/satta-result-chart/uk/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>45</h3>
+				</td>
+				<td class="today-number">
+					<h3>XX</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="RS">
+				<td class="game-details">
+					<h3 class="game-name">ROYAL SATTA KING</h3>
+					<h3 class="game-time"> at 10:10 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/royal-satta-king/satta-result-chart/rs/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>82</h3>
+				</td>
+				<td class="today-number">
+					<h3>XX</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="SN">
+				<td class="game-details">
+					<h3 class="game-name">SANGRUR</h3>
+					<h3 class="game-time"> at 10:10 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/sangrur/satta-result-chart/sn/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>29</h3>
+				</td>
+				<td class="today-number">
+					<h3>XX</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="LU">
+				<td class="game-details">
+					<h3 class="game-name">GOOD LUCK</h3>
+					<h3 class="game-time"> at 10:10 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/good-luck/satta-result-chart/lu/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>02</h3>
+				</td>
+				<td class="today-number">
+					<h3>XX</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="KR">
+				<td class="game-details">
+					<h3 class="game-name">KARACHI GOLDEN</h3>
+					<h3 class="game-time"> at 10:10 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/karachi-golden/satta-result-chart/kr/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>63</h3>
+				</td>
+				<td class="today-number">
+					<h3>XX</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="DH">
+				<td class="game-details">
+					<h3 class="game-name">DELHI SUPER</h3>
+					<h3 class="game-time"> at 10:00 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/delhi-super/satta-result-chart/dh/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>02</h3>
+				</td>
+				<td class="today-number">
+					<h3>XX</h3>
+				</td>
+			</tr>
+					<tr class="game-result highlight" id="GB">
+				<td class="game-details">
+					<h3 class="game-name">GHAZIABAD</h3>
+					<h3 class="game-time"> at 09:00 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/ghaziabad/satta-result-chart/gb/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>44</h3>
+				</td>
+				<td class="today-number">
+					<h3>70</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="NG">
+				<td class="game-details">
+					<h3 class="game-name">NEW GHAZIABAD</h3>
+					<h3 class="game-time"> at 08:50 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/new-ghaziabad/satta-result-chart/ng/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>05</h3>
+				</td>
+				<td class="today-number">
+					<h3>03</h3>
+				</td>
+			</tr>
+					<tr class="board-head" id="old">
+				<th colspan="3">
+					<h2><a href="#timewise-result">Click here for more games results.</a></h2>
+				</th>
+			</tr>
+			</tbody></table>
+					<table id="timewise-result">
+			<tbody><tr >
+				<th colspan="3">
+					<h1>Timewise Superfast Satta King Results of November 13, 2024 &amp; November 12, 2024</h1>
+				</th>
+			</tr>
+			<tr class="board-head">
+				<th class="games-name">
+					<h2>Games List</h2>
+				</th>
+				<th class="yesterday-date">
+					<h2>Tue. 12th</h2>
+				</th>
+				<th class="today-date">
+					<h2>Wed. 13th</h2>
+				</th>
+			</tr>
+					<tr class="game-result" id="NW">
+				<td class="game-details">
+					<h3 class="game-name">NEW GALI</h3>
+					<h3 class="game-time"> at 12:30 AM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/new-gali/satta-result-chart/nw/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>53</h3>
+				</td>
+				<td class="today-number">
+					<h3>08</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="BS">
+				<td class="game-details">
+					<h3 class="game-name">BIKANER SUPER</h3>
+					<h3 class="game-time"> at 02:20 AM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/bikaner-super/satta-result-chart/bs/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>90</h3>
+				</td>
+				<td class="today-number">
+					<h3>15</h3>
+				</td>
+			</tr>
+					<tr class="game-result highlight" id="DS">
+				<td class="game-details">
+					<h3 class="game-name">DESAWAR</h3>
+					<h3 class="game-time"> at 05:00 AM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/desawar/satta-result-chart/ds/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>57</h3>
+				</td>
+				<td class="today-number">
+					<h3>41</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="NP">
+				<td class="game-details">
+					<h3 class="game-name">NEW PUNJAB</h3>
+					<h3 class="game-time"> at 11:10 AM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/new-punjab/satta-result-chart/np/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>05</h3>
+				</td>
+				<td class="today-number">
+					<h3>11</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="JR">
+				<td class="game-details">
+					<h3 class="game-name">JAIPUR KING</h3>
+					<h3 class="game-time"> at 01:00 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/jaipur-king/satta-result-chart/jr/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>15</h3>
+				</td>
+				<td class="today-number">
+					<h3>95</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="MK">
+				<td class="game-details">
+					<h3 class="game-name">MEWAT KING</h3>
+					<h3 class="game-time"> at 01:30 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/mewat-king/satta-result-chart/mk/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>11</h3>
+				</td>
+				<td class="today-number">
+					<h3>29</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="RJ">
+				<td class="game-details">
+					<h3 class="game-name">RAJDHANI JAIPUR</h3>
+					<h3 class="game-time"> at 02:00 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/rajdhani-jaipur/satta-result-chart/rj/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>60</h3>
+				</td>
+				<td class="today-number">
+					<h3>56</h3>
+				</td>
+			</tr>
+					<tr class="game-result highlight" id="GR">
+				<td class="game-details">
+					<h3 class="game-name">GALI DISAWAR MIX</h3>
+					<h3 class="game-time"> at 02:15 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/gali-disawar-mix/satta-result-chart/gr/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>35</h3>
+				</td>
+				<td class="today-number">
+					<h3>40</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="DZ">
+				<td class="game-details">
+					<h3 class="game-name">DELHI DREAM</h3>
+					<h3 class="game-time"> at 02:15 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/delhi-dream/satta-result-chart/dz/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>71</h3>
+				</td>
+				<td class="today-number">
+					<h3>39</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="LG">
+				<td class="game-details">
+					<h3 class="game-name">DELHI GATE</h3>
+					<h3 class="game-time"> at 02:20 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/delhi-gate/satta-result-chart/lg/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>32</h3>
+				</td>
+				<td class="today-number">
+					<h3>25</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="SV">
+				<td class="game-details">
+					<h3 class="game-name">SAVERA</h3>
+					<h3 class="game-time"> at 02:30 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/savera/satta-result-chart/sv/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>90</h3>
+				</td>
+				<td class="today-number">
+					<h3>80</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="MR">
+				<td class="game-details">
+					<h3 class="game-name">MANGAL BAZAR</h3>
+					<h3 class="game-time"> at 03:00 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/mangal-bazar/satta-result-chart/mr/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>58</h3>
+				</td>
+				<td class="today-number">
+					<h3>87</h3>
+				</td>
+			</tr>
+					<tr class="game-result highlight" id="MH">
+				<td class="game-details">
+					<h3 class="game-name">MOHALI</h3>
+					<h3 class="game-time"> at 03:00 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/mohali/satta-result-chart/mh/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>03</h3>
+				</td>
+				<td class="today-number">
+					<h3>04</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="MC">
+				<td class="game-details">
+					<h3 class="game-name">MEERUT CITY</h3>
+					<h3 class="game-time"> at 03:00 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/meerut-city/satta-result-chart/mc/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>--</h3>
+				</td>
+				<td class="today-number">
+					<h3>86</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="KB">
+				<td class="game-details">
+					<h3 class="game-name">KALKA BAZAR</h3>
+					<h3 class="game-time"> at 03:00 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/kalka-bazar/satta-result-chart/kb/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>49</h3>
+				</td>
+				<td class="today-number">
+					<h3>59</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="ME">
+				<td class="game-details">
+					<h3 class="game-name">MEERUT METRO</h3>
+					<h3 class="game-time"> at 03:00 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/meerut-metro/satta-result-chart/me/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>73</h3>
+				</td>
+				<td class="today-number">
+					<h3>00</h3>
+				</td>
+			</tr>
+					<tr class="game-result highlight" id="DB">
+				<td class="game-details">
+					<h3 class="game-name">DELHI BAZAR</h3>
+					<h3 class="game-time"> at 03:00 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/delhi-bazar/satta-result-chart/db/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>78</h3>
+				</td>
+				<td class="today-number">
+					<h3>52</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="KD">
+				<td class="game-details">
+					<h3 class="game-name">KHANDALA</h3>
+					<h3 class="game-time"> at 03:10 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/khandala/satta-result-chart/kd/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>69</h3>
+				</td>
+				<td class="today-number">
+					<h3>59</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="BL">
+				<td class="game-details">
+					<h3 class="game-name">BADLAPUR</h3>
+					<h3 class="game-time"> at 03:20 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/badlapur/satta-result-chart/bl/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>73</h3>
+				</td>
+				<td class="today-number">
+					<h3>59</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="MB">
+				<td class="game-details">
+					<h3 class="game-name">MAA BHAGWATI</h3>
+					<h3 class="game-time"> at 03:30 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/maa-bhagwati/satta-result-chart/mb/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>14</h3>
+				</td>
+				<td class="today-number">
+					<h3>60</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="D2">
+				<td class="game-details">
+					<h3 class="game-name">DELHI BAZAR 2</h3>
+					<h3 class="game-time"> at 03:50 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/delhi-bazar-2/satta-result-chart/d2/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>40</h3>
+				</td>
+				<td class="today-number">
+					<h3>32</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="RD">
+				<td class="game-details">
+					<h3 class="game-name">RAJDARBAR</h3>
+					<h3 class="game-time"> at 03:50 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/rajdarbar/satta-result-chart/rd/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>25</h3>
+				</td>
+				<td class="today-number">
+					<h3>92</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="SY">
+				<td class="game-details">
+					<h3 class="game-name">SALIMAR DAY</h3>
+					<h3 class="game-time"> at 04:00 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/salimar-day/satta-result-chart/sy/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>61</h3>
+				</td>
+				<td class="today-number">
+					<h3>94</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="SS">
+				<td class="game-details">
+					<h3 class="game-name">SHIV SHAKTI</h3>
+					<h3 class="game-time"> at 04:05 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/shiv-shakti/satta-result-chart/ss/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>90</h3>
+				</td>
+				<td class="today-number">
+					<h3>56</h3>
+				</td>
+			</tr>
+					<tr class="game-result highlight" id="SG">
+				<td class="game-details">
+					<h3 class="game-name">SHRI GANESH</h3>
+					<h3 class="game-time"> at 04:30 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/shri-ganesh/satta-result-chart/sg/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>30</h3>
+				</td>
+				<td class="today-number">
+					<h3>91</h3>
+				</td>
+			</tr>
+					<tr class="game-result highlight" id="GD">
+				<td class="game-details">
+					<h3 class="game-name">GHAZIABAD DIN</h3>
+					<h3 class="game-time"> at 04:35 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/ghaziabad-din/satta-result-chart/gd/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>75</h3>
+				</td>
+				<td class="today-number">
+					<h3>60</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="VD">
+				<td class="game-details">
+					<h3 class="game-name">VASUDEV</h3>
+					<h3 class="game-time"> at 04:45 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/vasudev/satta-result-chart/vd/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>06</h3>
+				</td>
+				<td class="today-number">
+					<h3>39</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="CT">
+				<td class="game-details">
+					<h3 class="game-name">CHAND TARA</h3>
+					<h3 class="game-time"> at 05:00 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/chand-tara/satta-result-chart/ct/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>55</h3>
+				</td>
+				<td class="today-number">
+					<h3>79</h3>
+				</td>
+			</tr>
+					<tr class="game-result highlight" id="MU">
+				<td class="game-details">
+					<h3 class="game-name">MUMBAI</h3>
+					<h3 class="game-time"> at 05:30 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/mumbai/satta-result-chart/mu/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>82</h3>
+				</td>
+				<td class="today-number">
+					<h3>38</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="RA">
+				<td class="game-details">
+					<h3 class="game-name">RAJDHANI</h3>
+					<h3 class="game-time"> at 06:00 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/rajdhani/satta-result-chart/ra/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>35</h3>
+				</td>
+				<td class="today-number">
+					<h3>98</h3>
+				</td>
+			</tr>
+					<tr class="game-result highlight" id="FB">
+				<td class="game-details">
+					<h3 class="game-name">FARIDABAD</h3>
+					<h3 class="game-time"> at 06:00 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/faridabad/satta-result-chart/fb/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>18</h3>
+				</td>
+				<td class="today-number">
+					<h3>10</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="ND">
+				<td class="game-details">
+					<h3 class="game-name">NEW DELHI BAZAAR</h3>
+					<h3 class="game-time"> at 06:40 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/new-delhi-bazaar/satta-result-chart/nd/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>96</h3>
+				</td>
+				<td class="today-number">
+					<h3>31</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="BI">
+				<td class="game-details">
+					<h3 class="game-name">BIG LUCK</h3>
+					<h3 class="game-time"> at 06:55 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/big-luck/satta-result-chart/bi/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>87</h3>
+				</td>
+				<td class="today-number">
+					<h3>26</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="BA">
+				<td class="game-details">
+					<h3 class="game-name">BIHAR</h3>
+					<h3 class="game-time"> at 07:15 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/bihar/satta-result-chart/ba/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>22</h3>
+				</td>
+				<td class="today-number">
+					<h3>67</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="JB">
+				<td class="game-details">
+					<h3 class="game-name">JAMBO</h3>
+					<h3 class="game-time"> at 07:15 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/jambo/satta-result-chart/jb/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>09</h3>
+				</td>
+				<td class="today-number">
+					<h3>33</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="NL">
+				<td class="game-details">
+					<h3 class="game-name">NEELKANTH</h3>
+					<h3 class="game-time"> at 07:20 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/neelkanth/satta-result-chart/nl/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>07</h3>
+				</td>
+				<td class="today-number">
+					<h3>29</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="SL">
+				<td class="game-details">
+					<h3 class="game-name">SHRI LAXMI</h3>
+					<h3 class="game-time"> at 07:30 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/shri-laxmi/satta-result-chart/sl/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>04</h3>
+				</td>
+				<td class="today-number">
+					<h3>65</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="PK">
+				<td class="game-details">
+					<h3 class="game-name">PUNJAB KING</h3>
+					<h3 class="game-time"> at 07:30 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/punjab-king/satta-result-chart/pk/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>08</h3>
+				</td>
+				<td class="today-number">
+					<h3>21</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="PW">
+				<td class="game-details">
+					<h3 class="game-name">PALWAL - PW</h3>
+					<h3 class="game-time"> at 07:30 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/palwal/satta-result-chart/pw/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>66</h3>
+				</td>
+				<td class="today-number">
+					<h3>40</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="BR">
+				<td class="game-details">
+					<h3 class="game-name">NEW BALLABHGARH</h3>
+					<h3 class="game-time"> at 07:30 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/new-ballabhgarh/satta-result-chart/br/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>27</h3>
+				</td>
+				<td class="today-number">
+					<h3>21</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="PS">
+				<td class="game-details">
+					<h3 class="game-name">PARAS</h3>
+					<h3 class="game-time"> at 07:40 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/paras/satta-result-chart/ps/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>71</h3>
+				</td>
+				<td class="today-number">
+					<h3>14</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="PR">
+				<td class="game-details">
+					<h3 class="game-name">PARIS BAZAR</h3>
+					<h3 class="game-time"> at 07:50 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/paris-bazar/satta-result-chart/pr/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>32</h3>
+				</td>
+				<td class="today-number">
+					<h3>72</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="KU">
+				<td class="game-details">
+					<h3 class="game-name">DHAN KUBER</h3>
+					<h3 class="game-time"> at 07:55 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/dhan-kuber/satta-result-chart/ku/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>04</h3>
+				</td>
+				<td class="today-number">
+					<h3>10</h3>
+				</td>
+			</tr>
+					<tr class="game-result" id="IR">
+				<td class="game-details">
+					<h3 class="game-name">SIRSA</h3>
+					<h3 class="game-time"> at 08:30 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/sirsa/satta-result-chart/ir/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>19</h3>
+				</td>
+				<td class="today-number">
+					<h3>--</h3>
+				</td>
+			</tr>
+					<tr class="game-result highlight" id="GL">
+				<td class="game-details">
+					<h3 class="game-name">GALI</h3>
+					<h3 class="game-time"> at 11:15 PM</h3>
+					<h3 class="game-link"><a href="https://satta-king-fast.com/gali/satta-result-chart/gl/">Record Chart</a></h3>
+				</td>
+				<td class="yesterday-number">
+					<h3>56</h3>
+				</td>
+				<td class="today-number">
+					<h3>XX</h3>
+				</td>
+			</tr>
+		</tbody></table>

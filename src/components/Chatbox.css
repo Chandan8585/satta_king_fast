@@ -1,0 +1,175 @@
+
+.chatbox-popup {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 300px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    z-index: 9999;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .chatbox-popup__header {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    background-color: #007bff;
+  }
+  
+  .chatbox-popup__header .chatbox-popup__avatar {
+    color: #fff;
+  }
+  
+  .chatbox-popup__main {
+    padding: 10px;
+    flex-grow: 1;
+    overflow-y: auto;
+  }
+  
+  .chatbox-popup__footer {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    border-top: 1px solid #ccc;
+  }
+  
+  .chatbox-popup__footer textarea {
+    width: calc(100% - 40px);
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: none;
+  }
+  
+  /* Chatbox panel styles */
+  .chatbox-panel {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 300px;
+    height: 200px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    z-index: 9999;
+  }
+  
+  /* Close button styles */
+  .chatbox-open,
+  .chatbox-close,
+  .chatbox-maximize,
+  .chatbox-minimize,
+  .chatbox-panel-close {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    /* background-color: #007bff; */
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .chatbox-close,
+  .chatbox-maximize,
+  .chatbox-minimize,
+  .chatbox-panel-close {
+    bottom: auto;
+    right: auto;
+    top: 20px;
+  }
+  
+  .chatbox-close:hover,
+  .chatbox-maximize:hover,
+  .chatbox-minimize:hover,
+  .chatbox-panel-close:hover {
+    background-color: grey;
+    color: white;
+  }
+  
+  /* Notification badge styles */
+  .notification-badge {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    background-color: red;
+    color: white;
+    font-size: 12px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
+  /* Custom styles */
+  .whatsapp-icon {
+    position: relative;
+  }
+  
+  .whatsapp-square-icon {
+    color: green; /* Change color as needed */
+  }
+  
+  /* Optional: Hide scrollbars */
+  .chatbox-popup__main::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Optional: Handle scroll on Firefox */
+  .chatbox-popup__main {
+    scrollbar-width: none;
+  }
+  
+  .chatbox-close{
+    position: absolute;
+    top: 20px;
+    left: 240px;
+    z-index: 4;
+    color: black;
+    
+  }
+
+  /* Add this CSS to your existing Chatbox.css file */
+
+/* Adjustments for mobile devices */
+@media only screen and (max-width: 768px) {
+    .chatbox-popup,
+    .chatbox-panel,
+    .chatbox-open,
+    .chatbox-close,
+    .chatbox-maximize,
+    .chatbox-minimize,
+    .chatbox-panel-close {
+      right: 10px;
+    }
+    
+    .chatbox-popup {
+      /* bottom: 300px; */
+      width: calc(100% - 20px);
+      max-width: 300px;
+    }
+    
+    .chatbox-panel {
+      bottom: 10px;
+      width: calc(100% - 20px);
+      max-width: 300px;
+    }
+    
+    .chatbox-close,
+    .chatbox-maximize,
+    .chatbox-minimize,
+    .chatbox-panel-close {
+      left: auto;
+    }
+  }
+  

@@ -1,0 +1,82 @@
+
+    <div class="game-container">
+                    <div class="game-box">
+                <div class="game-inner-container">
+                    <div class="satta-game-name">DESAWAR</div>
+                    <div class="satta-game-time">05:15 am</div>
+                    <div class "satta-game-result">
+                        <strong>                                --
+                            </strong>
+                    </div>
+                </div>
+            </div>
+                    <div class="game-box">
+                <div class="game-inner-container">
+                    <div class="satta-game-name">HARIDWAR</div>
+                    <div class="satta-game-time">12:00 pm</div>
+                    <div class "satta-game-result">
+                        <strong>                                --
+                            </strong>
+                    </div>
+                </div>
+            </div>
+                    <div class="game-box">
+                <div class="game-inner-container">
+                    <div class="satta-game-name">TEZPUR MORNING</div>
+                    <div class="satta-game-time">01:30 pm</div>
+                    <div class "satta-game-result">
+                        <strong>                                --
+                            </strong>
+                    </div>
+                </div>
+            </div>
+                    <div class="game-box">
+                <div class="game-inner-container">
+                    <div class="satta-game-name">LUCKNOW GOLD</div>
+                    <div class="satta-game-time">12:10 pm</div>
+                    <div class "satta-game-result">
+                        <strong>                                --
+                            </strong>
+                    </div>
+                </div>
+            </div>
+                    <div class="game-box">
+                <div class="game-inner-container">
+                    <div class="satta-game-name">PUNE CITY</div>
+                    <div class="satta-game-time">12:30 pm</div>
+                    <div class "satta-game-result">
+                        <strong>                                --
+                            </strong>
+                    </div>
+                </div>
+            </div>
+                    <div class="game-box">
+                <div class="game-inner-container">
+                    <div class="satta-game-name">INDIA DARBAR</div>
+                    <div class="satta-game-time">11:20 am</div>
+                    <div class "satta-game-result">
+                        <strong>                                79                            </strong>
+                    </div>
+                </div>
+            </div>
+                    <div class="game-box">
+                <div class="game-inner-container">
+                    <div class="satta-game-name">RAJDHANI </div>
+                    <div class="satta-game-time">03:30 pm</div>
+                    <div class "satta-game-result">
+                        <strong>                                --
+                            </strong>
+                    </div>
+                </div>
+            </div>
+                    <div class="game-box">
+                <div class="game-inner-container">
+                    <div class="satta-game-name">MAHARASHTAR SATTA</div>
+                    <div class="satta-game-time">01:30 pm</div>
+                    <div class "satta-game-result">
+                        <strong>                                --
+                            </strong>
+                    </div>
+                </div>
+            </div>
+            </div>

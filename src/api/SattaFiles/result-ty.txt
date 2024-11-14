@@ -1,0 +1,745 @@
+
+    <div class="game-ty-container">
+                    <div class="game-ty">
+                <div class="satta-game-name">DESAWAR</div>
+                <div class="satta-game-time">05:15 am</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        73                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">GALI</div>
+                <div class="satta-game-time">11:50 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">FARIDABAD</div>
+                <div class="satta-game-time">06:00 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">GAZIYABAAD</div>
+                <div class="satta-game-time">08:50 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">GOLDSTAR</div>
+                <div class="satta-game-time">04:15 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">GHAZIABAD DIN</div>
+                <div class="satta-game-time">04:30 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">TEZPUR DAY</div>
+                <div class="satta-game-time">04:30 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">TEZPUR EVENING</div>
+                <div class="satta-game-time">06:30 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">TEZPUR NIGHT</div>
+                <div class="satta-game-time">08:30 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">HINDUSTAN</div>
+                <div class="satta-game-time">05:30 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">MUMBAI BAZAR</div>
+                <div class="satta-game-time">06:00 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">HARIDWAR</div>
+                <div class="satta-game-time">12:00 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">GHAZIABAD NOON</div>
+                <div class="satta-game-time">02:00 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">TEZPUR MORNING</div>
+                <div class="satta-game-time">01:30 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">LUCKNOW GOLD</div>
+                <div class="satta-game-time">12:10 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        89                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">DELHI BAZAAR</div>
+                <div class="satta-game-time">03:00 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">INDIA BAZAR</div>
+                <div class="satta-game-time">04:15 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">DELHI GOLD</div>
+                <div class="satta-game-time">07:45 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">PUNE CITY</div>
+                <div class="satta-game-time">12:30 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        04                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">RANCHI</div>
+                <div class="satta-game-time">05:00 am</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        29                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">GOA NIGHT</div>
+                <div class="satta-game-time">11:50 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">BHOPAL MORNING</div>
+                <div class="satta-game-time">04:45 am</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        73                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">INDIA DARBAR</div>
+                <div class="satta-game-time">11:20 am</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        79                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">UPSTATE</div>
+                <div class="satta-game-time">04:15 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">MUMBAI CITY</div>
+                <div class="satta-game-time">01:15 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">DUBAI BAZAR</div>
+                <div class="satta-game-time">11:00 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">PALWAL</div>
+                <div class="satta-game-time">07:30 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">RAJASTHAN EVENING</div>
+                <div class="satta-game-time">03:00 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">BIG BAZAR</div>
+                <div class="satta-game-time">07:40 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">TAJ EXPRESS</div>
+                <div class="satta-game-time">10:30 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">NCR</div>
+                <div class="satta-game-time">02:15 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">SHRI LAXMI</div>
+                <div class="satta-game-time">07:30 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">UP BAZAAR</div>
+                <div class="satta-game-time">04:30 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">MEERUT CITY</div>
+                <div class="satta-game-time">03:00 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">RAJDHANI </div>
+                <div class="satta-game-time">03:30 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">CHAND TARA </div>
+                <div class="satta-game-time">04:00 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">ROLEX NIGHT</div>
+                <div class="satta-game-time">11:00 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">TIGER SATTA</div>
+                <div class="satta-game-time">07:30 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">JAI LAXMI</div>
+                <div class="satta-game-time">04:45 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">BIKANER SUPER</div>
+                <div class="satta-game-time">02:25 am</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        64                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">TAJ</div>
+                <div class="satta-game-time">03:15 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">MAHARASHTAR BAZAAR</div>
+                <div class="satta-game-time">05:30 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">NEPAL DIN</div>
+                <div class="satta-game-time">03:30 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">SHREE GANESH</div>
+                <div class="satta-game-time">04:45 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">SUPER DISAWAR</div>
+                <div class="satta-game-time">05:00 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">DESAWAR SHAM</div>
+                <div class="satta-game-time">09:15 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">RAJDARBAR</div>
+                <div class="satta-game-time">03:35 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">Bheem Bazar</div>
+                <div class="satta-game-time">10:00 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">Hyderabad Old</div>
+                <div class="satta-game-time">07:00 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        17                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">MAHARASHTAR SATTA</div>
+                <div class="satta-game-time">01:30 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        10                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">SHREE KISHAN</div>
+                <div class="satta-game-time">08:00 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty">
+                <div class="satta-game-name">GALI-2</div>
+                <div class="satta-game-time">10:30 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+                    <div class="game-ty-last">
+                <div class="satta-game-name">Nasirabad</div>
+                <div class="satta-game-time">06:00 pm</div>
+                <div class="satta-results">
+                    <div class="result-label">Yesterday</div>
+                    <div class="satta-result">
+                        No Result                    </div>
+                </div>
+                <div class="satta-results">
+                    <div class="result-label">Today</div>
+                    <div class="satta-result">
+                        Pending                    </div>
+                </div>
+            </div>
+            </div>
